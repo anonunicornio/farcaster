@@ -1,4 +1,4 @@
 # farcaster
 testing for farcaster
 
-GM 23
+GM 24
