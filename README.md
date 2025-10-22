@@ -1,6 +1,6 @@
 # farcaster
 testing for farcaster
 
-GM 122
+GM 123
 
 goal: 130
